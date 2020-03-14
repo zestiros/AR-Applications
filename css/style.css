@@ -1297,6 +1297,12 @@ ol {
     margin-bottom: 20px;
 }
 
+.bd-text .bd-more-text .bm-item h2 {
+    color: #ffffff;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+
 .bd-text .bd-more-text .bm-item h5 {
     color: #ffffff;
     font-weight: 600;
